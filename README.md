@@ -1,2 +1,7 @@
 # hello-world
-Just another repo
+#include <stdio.h>
+int main()
+{
+  printf("Hello world!");
+  return 0;
+}
